@@ -1,6 +1,6 @@
 {
   "name": "express-promise-handlers",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Promise handlers to all famous HTTP responses.",
   "main": "dist/index.js",
   "scripts": {
