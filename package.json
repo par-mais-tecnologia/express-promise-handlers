@@ -1,0 +1,28 @@
+{
+  "name": "express-promise-handlers",
+  "version": "0.1.0",
+  "description": "Promise handlers to all famous HTTP responses.",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "author": "Diego Laucsen",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "license": "(Apache-2.0)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/par-mais-tecnologia/express-promise-handlers.git"
+  },
+  "keywords": [
+    "dynamoDB",
+    "nosql",
+    "no-sql",
+    "aws",
+    "database"
+  ],
+  "homepage": "https://github.com/par-mais-tecnologia/express-promise-handlers#readme"
+}
